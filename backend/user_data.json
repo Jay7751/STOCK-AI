@@ -1,0 +1,26 @@
+{
+    "users": {
+        "test@example.com": {
+            "watchlist": [],
+            "portfolio": {},
+            "profile": {
+                "username": "testUser",
+                "email": "test@example.com"
+            }
+        },
+        "demo@stockapp.com": {
+            "watchlist": [
+                "aap",
+                "bse"
+            ],
+            "portfolio": {},
+            "balance": 100000,
+            "transactions": [],
+            "profile": {
+                "username": "Demo User",
+                "email": "demo@stockapp.com",
+                "is_demo": true
+            }
+        }
+    }
+}
